@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.body {
+    font-family: Arial, ;
+    color: black;
+}
+/*  titulos */
+.nav {
+    background-color: rgb(172, 54, 54);
+    
+}
+.nav-link {
+    color: #ffffff;
+    font-size: 18px;
+    margin: 0 px;
+}
+.card-header {
+    background-color: rgb(172, 54, 54);
+    color: #ffffff;
+    font-size: 18px;
+    margin: 0 px;    
+}
+.parrafo{
+    text-align: justify;
+}
+.card-title-project{
+    background-color: rgb(172, 54, 54);
+    padding: 9px;
+    color: #ffffff;
+    font-size: 18px;
+    margin: 0 px;
+}
+.card-text{
+    text-align: justify;
+}
+.footer {
+    background-color: rgb(172, 54, 54);
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+    margin: 0 px;
+}
+#Contacto{
+    width: 500px;
+    margin-inline: auto;
+}
+.titulocontacto{
+    text-align: center;
+}
+.boton{
+    text-align: center;
+}
