@@ -15,12 +15,12 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
 //Para resetear el formulario
-/* <script>
+<script>
   function resetForm() {
     document.getElementById('Contacto').reset();
     alert("Formulario enviado y reseteado!");
 }
-</script> */
+</script>
   //Boton de Formulario
 document
 .querySelector('button[type="submit"]')
